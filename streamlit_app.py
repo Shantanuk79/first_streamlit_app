@@ -1,2 +1,7 @@
 import streamlit
-streamlit.title('Hello there, this is my app')
+streamlit.title('Perfect Omelette Recipe')
+streamlit.header('Ingredients Required')
+streamlit.text('2 Eggs')
+streamlit.text('1 Tsp Butter')
+streamlit.text('Salt to taste')
+streamlit.text('Preferred spices and chillis')
