@@ -1,5 +1,6 @@
 import streamlit
 import pandas
+import snowflake.connector
 
 streamlit.title('🥣 Perfect Omelette Recipe')
 streamlit.header('Ingredients Required')
